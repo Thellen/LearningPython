@@ -1,2 +1,2 @@
 # LearningPython
-Exercícios de Python para apredizagem
+## Exercícios de Python que faço para aprendizagem
